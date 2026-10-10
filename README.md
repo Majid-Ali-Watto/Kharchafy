@@ -1,4 +1,4 @@
-# Kharchafy-
+# Kharchafy
 Kharchafy helps friends, roommates, families, and travelers split bills, track shared loans, manage personal expenses, save receipts, approve important changes, and download detailed reports.
 
 **Everything you need to split, track, approve, and report expenses**
